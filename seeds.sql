@@ -1,0 +1,10 @@
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (101, "boots", "soccer", 79.99, 20);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (212, "jerseys", "basketball", 99.99, 10);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (313, "helmet", "football", 29.99, 5);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (420, "sweater", "hockey", 129.99, 14);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (504, "pants", "football", 39.99, 15);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (619, "shorts", "soccer", 19.99, 19);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (720, "gloves", "baseball", 49.99, 11);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (808, "bats", "baseball", 69.99, 10);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (913, "pucks", "hockey", 9.99, 19);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (1009, "shoes", "basketball", 89.99, 17);
